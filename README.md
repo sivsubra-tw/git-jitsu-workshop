@@ -1,3 +1,5 @@
 # git-jitsu-workshop
 
-- Install `commitizen`
+- Install `commitizen` 
+
+Sample commit
