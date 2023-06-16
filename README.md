@@ -3,3 +3,4 @@
 - Install `commitizen` 
 
 Sample commit
+hello
