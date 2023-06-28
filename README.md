@@ -12,3 +12,7 @@ hello
 Additionally, revving up renewable energy could reduce global warming. The vast majority of energy needs worldwide can be potentially met by such renewable sources of energy as bioenergy, geothermal, wind, and solar energy that apart from reducing pollution, would also create jobs. According to the Environmental Protection Agency’s 2012 report, coal-fired power plants produce approximately 25 percent of total U.S. global warming emissions while natural gas-fired power plants produce 6 percent of
 
 lol
+
+hey hey hey sneaky me
+
+one more edit
